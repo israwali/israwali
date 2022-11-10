@@ -5,6 +5,6 @@
   <body>
     👀 I’m interested in Web Development <br>
     🌱 I’m currently learning CSS and Javascript <br>
-    📫 How to reach me ![Email](mailto:iw3948@srmist.edu.in)
+    📫 How to reach me <a href="mailto:iw3948@srmist.edu.in">Email</a>
   </body>
 </html>
